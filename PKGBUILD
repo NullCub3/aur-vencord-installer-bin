@@ -7,7 +7,7 @@ license=('GPL3')
 arch=('x86_64')
 provides=("vencord-installer-cli")
 source=("https://github.com/Vencord/Installer/releases/download/v$pkgver/VencordInstallerCli-linux")
-sha256sums=('e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855')
+sha256sums=('dfdc9e9fa0cfdefec3c030146e9433098728de83f6922bf97f7c96e9ec78c472')
 
 package() {
 	mv VencordInstallerCli-linux vencordinstallercli
