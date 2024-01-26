@@ -1,7 +1,7 @@
 # Maintainer: NullCube <nullcub3 at gmail dot com>
 pkgname=vencord-installer-cli-bin
 pkgdesc="A CLI Installer for Vencord, the cutest Discord client mod"
-pkgrel=1
+pkgrel=2
 pkgver=1.4.0
 url="https://github.com/Vencord/Installer"
 license=('GPL3')
